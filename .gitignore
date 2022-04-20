@@ -1,0 +1,7 @@
+.profile
+cross/
+cross-src/
+.vscode/
+
+*.elf
+*.o
